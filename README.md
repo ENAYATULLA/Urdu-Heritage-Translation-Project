@@ -38,18 +38,18 @@ npm start
 http://localhost:3000/
 File Structure
 
-├── backend/         # Flask backend
-│   ├── app.py       # Main server file
-│   ├── ocr.py       # OCR processing
-│   ├── translation.py # NLP translation
-├── frontend/        # React.js frontend
+├── backend/           Flask backend
+│   ├── app.py         Main server file
+│   ├── ocr.py         OCR processing
+│   ├── translation.py   NLP translation
+├── frontend/          React.js frontend
 │   ├── src/
-│   │   ├── App.js   # Main application component
-│   │   ├── styles.css # Styling for UI
-├── database/        # PostgreSQL scripts
-├── models/          # OCR & NLP models
-├── public/          # Static assets
-└── README.md        # Project documentation
+│   │   ├── App.js     Main application component
+│   │   ├── styles.css   Styling for UI
+├── database/         PostgreSQL scripts
+├── models/           OCR & NLP models
+├── public/           Static assets
+└── README.md         Project documentation
 Live Demo
 
 
